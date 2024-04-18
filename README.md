@@ -69,9 +69,11 @@ Para lanzar el servidor web (puerto 8501) se debe ejecutar el siguiente comando 
 streamlit run app.py
 
 
-## Analisis y preprocesamiento
+## Analisis y preprocesamiento:
 
 Dentro de la carpeta notebook se encuentra un cuaderno llamado "FinalLab (1).ipynb" el cual detalla el proceso de analisis de la fuente, transformación y enriquecimiento de la data con las coordenadas de las estaciones de servicio.
+
+
 --------------------------------------------------------------------------
 
 
